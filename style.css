@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-size: 0;
+  width: 100%;
+  background-color:#191a1d;
+}
+.png{
+  text-align: center;
+  margin: 1% 0pt 0pt 0pt;
+}
+.png img{
+  width: 25%;
+  height: 25%;
+}
+header {
+  margin: 5% 0pt 0pt 0pt;
+  width: 100%;
+  height: 100%;
+}
+.card{
+  display: flex;
+ margin: 0pt 13% 4% 13%;
+}
+.photo{
+  width: 375px;
+  height: 512px;
+}
+.info{
+  width: 100%;
+  height: 100%;
+  margin: 0pt 0pt 0pt 10%;
+ 
+}
+.name{
+  font-size: 50px;
+  color: rgb(199, 174, 141);
+  margin: 0pt 0pt 9% 0pt;
+  text-align: center;
+}
+.born{
+  font-size: 28px;
+  color: rgb(199, 174, 141);
+  margin: 0pt 0pt 6% 0pt;
+}
+.died{
+  font-size: 28px;
+  color: rgb(199, 174, 141);
+  margin: 0pt 0pt 6% 0pt;
+}
+.culture{
+  font-size: 28px;
+  color: rgb(199, 174, 141);
+  margin: 0pt 0pt 6% 0pt;
+}
+.aliases{
+  font-size: 28px;
+  color: rgb(199, 174, 141);
+  margin: 0pt 0pt 6% 0pt;
+}
+.titles{
+  font-size: 28px;
+  color: rgb(199, 174, 141);
+  margin: 0pt 0pt 6% 0pt; 
+}
+.actor{
+  font-size: 28px;
+  color: rgb(199, 174, 141);
+  margin: 0pt 0pt 6% 0pt; 
+}
+.next {
+  background-color:rgb(199, 174, 141);
+  font-size: 28px;
+  width: 20%;
+  height: 20%;
+  margin: 0px 0pt 0px 0pt;
+color: #191a1d;
+}
