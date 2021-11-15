@@ -50,7 +50,8 @@ async function fetchHandler(url, photoUrl) {
 var i = 0;
 
 button.addEventListener('click', () => {
-  if (i > array_person.length) {
+  console.log('size' + array_person[0].length);
+  if (i > array_person[0].length) {
     i = 0;
   }
   fetchHandler(array_person[0][i], array_person[1][i]);
